@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+   int a , x;
+   scanf("%d%d",&a, &x);
+   int fnl = pow(a,x);
+   printf("a pow x equals to %d", pow(a,x);
+  return 0;
+  }
+
